@@ -1,2 +1,2 @@
 # Pac-Man
-This is my first structured programming project in my university. Hope you'll like it...
+This is the first university project done by me, where I built Pac-Man using the basic functionalities of C programming language.
