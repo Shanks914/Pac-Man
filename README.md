@@ -1,2 +1,2 @@
 # Pac-Man
-This is the first university project done by me, where I built Pac-Man using the basic functionalities of C programming language.
+This game is a console-based maze-chase video game where a player navigates through a maze to collect points while avoiding computer-controlled enemies, known as ghosts implementing a simplified version of the classic Pac-Man game using the C programming language. The game combines fundamental programming concepts like file handling, dynamic memory allocation, and real-time user interaction.
